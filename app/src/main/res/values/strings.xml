@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">GUMRF</string>
+    <string name="app_name">ГУМРФ</string>
+    <string name="logoDesc">Логотип университета</string>
 </resources>
